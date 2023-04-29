@@ -5,7 +5,7 @@
 
 # İletişim
 
-Her türlü iletişim için Discord : [Rovel](https://discord.gg/TMwtSm4Qdz)
+Her türlü iletişim için Discord : [Rovel](https://discord.gg/TMwtSm4Qdz) veya Larex#0001 Sentinel#7777
 
 
 ![](https://img.shields.io/github/stars/larexq/slash-kayit) ![](https://img.shields.io/github/forks/larexq/slash-kayit) ![](https://img.shields.io/github/v/tag/larexq/slash-kayit) ![](https://img.shields.io/github/issues/larexq/slash-kayit)
