@@ -1,0 +1,10 @@
+{
+  "name": "slash-kayit",
+  "version": "1.0.0",
+  "description": "Rovel | Slash Gelişmiş Kayıt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "larex"
+}
